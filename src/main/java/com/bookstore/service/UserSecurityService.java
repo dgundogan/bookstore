@@ -10,6 +10,7 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
 import com.bookstore.domain.User;
+import com.bookstore.repository.UserRepository;
 
 /**
  * Created by DG on 6/20/17.
